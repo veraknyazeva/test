@@ -1,3 +1,5 @@
-Hello
+Hello, word!
 
-World
+I study in Netology
+
+08.04.2024
